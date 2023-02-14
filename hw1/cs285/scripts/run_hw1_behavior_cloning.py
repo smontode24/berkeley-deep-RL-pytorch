@@ -1,6 +1,6 @@
 #Uncomment next two lines and replace the path if not using anaconda
-#import sys
-#sys.path.append(r'<your path to hw1 folder>')
+import sys
+sys.path.append(r'../..')
 
 import torch
 import os
